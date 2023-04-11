@@ -14,18 +14,17 @@ public class CalculoFactorial
 	 * @param numero
 	 * @return resultado del calculo factorial
 	 */
-	public int Factorial(int num) 
+	public int Factorial(int num)
 	{
 		int factorial, resto;
-        factorial = num;
-        resto = num;
+        factorial = resto =  num;
         
         if (num != 0)
         {
             while (resto >= 2)
             {
-            	resto = resto -1;
-                factorial = factorial * resto;
+            	resto--;
+                factorial *= resto;
             }
         }
         else factorial = 1;

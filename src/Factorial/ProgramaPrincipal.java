@@ -37,7 +37,7 @@ public class ProgramaPrincipal
         
         catch (Exception MessageError)
         {
-            System.out.println("Error");
+            System.out.println("Error, se requiere una utilización de valores númericos enteros.");
         }
 	}
 }
