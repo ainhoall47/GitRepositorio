@@ -1,7 +1,6 @@
 package Factorial;
 
 import java.io.*;
-
 /**
  * <h1> Documentamos: Clase Teclado. </h1>
  * <h2> Clase Teclado. Simplifica las entradas de datos por teclado </h2>
@@ -12,7 +11,7 @@ import java.io.*;
  * Teclado.caracter para leer un car�cter (char) por teclado
  * 
  * @author Joaquín Alvarez García
- * @version Curso 22/23
+ * @version 1
  * @since 16/03/2023
  *
  */
