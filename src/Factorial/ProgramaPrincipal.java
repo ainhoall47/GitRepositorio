@@ -1,7 +1,5 @@
 package Factorial;
 
-import FactorialRecursivo.se;
-
 /**
  * <h2> Documentamos: Clase Program. <h2>
  * 
